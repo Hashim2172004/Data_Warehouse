@@ -1,0 +1,21 @@
+{
+  "rows": 34,
+  "columns": 8,
+  "total_weight_kg": 578650.0,
+  "source_weight_kg": {
+    "Marine": 206500.0,
+    "Rail": 295250.0,
+    "Road": 76900.0
+  },
+  "status_counts": {
+    "Delivered": 22,
+    "In Transit": 8,
+    "Delayed": 4
+  },
+  "all_checks_passed": true,
+  "source_sha256": {
+    "marine_shipments.csv": "58c81f28706af7ba7358dbd4d6973441ad55346b6ef176dd2344bdd7539461bc",
+    "rail_shipments.xlsx": "d401dceb062559fcd2bb9dd7e0c9724ae7320494d20cf278a4202ccc2d2ef816",
+    "road_shipments.csv": "d00fa7957ebb19cc56ac82f52b0ed5e1ee24f1d519fb1f95fec2b31dae9ecab8"
+  }
+}

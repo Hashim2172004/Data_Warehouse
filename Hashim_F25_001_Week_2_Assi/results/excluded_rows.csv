@@ -1,0 +1,4 @@
+SourceFile,RawRow,ShipmentID,WeightKG,Reason
+road_shipments.csv,15,,,Blank record: no shipment fields
+road_shipments.csv,16,TOTAL,83000,Aggregate TOTAL row: not an individual shipment
+road_shipments.csv,7,RD-505,6100,Identical duplicate; retain raw row 6

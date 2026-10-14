@@ -1,0 +1,3 @@
+Total Weight KG = SUM(Shipments[WeightKG])
+Total Weight Tonnes = DIVIDE([Total Weight KG], 1000)
+Shipment Count = COUNTROWS(Shipments)
