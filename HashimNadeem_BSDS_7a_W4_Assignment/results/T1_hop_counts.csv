@@ -1,0 +1,9 @@
+Question,Dimensions,Star joins,Snow joins,Reason,Changed
+Total weight by month,DimDate,1,1,Date dimension is unchanged.,False
+Total weight by origin city,DimCity (origin),1,1,City remains directly connected to fact.,False
+Total weight by province,Star: DimCity; snow: DimCity → DimProvince,1,2,Province moves one hop farther from fact.,True
+Total weight by country,Star: DimCity; snow: DimCity → DimProvince → DimCountry,1,3,Country requires two extra hops.,True
+"Total cost by province, by month",DimDate plus city/province path,2,3,Only the province path adds one join.,True
+Total weight by mode and status,"DimMode, DimStatus",2,2,Neither dimension changes.,False
+Cost per kg by corridor,DimRoute,1,1,Both additive sums use the same corridor join.,False
+"Weight by destination province, by mode",DimMode plus destination city/province path,2,3,Destination Province adds one hop; Mode is unchanged.,True

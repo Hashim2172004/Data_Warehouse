@@ -1,0 +1,7 @@
+Situation,Verdict,Reason / failure mode
+Mode slicer must filter shipment totals,Single,Dimension → fact already filters every fact-based measure; Both needlessly propagates filters back to dimensions.
+City and Mode set to Both; second relationship refused,Single,Remove reverse flow and inspect other paths. Additional paths can create ambiguity. These two edges alone in a simple star do not necessarily cause rejection; the scenario needs another conflicting path.
+City slicer should grey out unused modes,Measure-level,Use Shipment Count as a visual filter (>0) on the Mode slicer. City and each mode filter the fact intersection; global Both would alter unrelated slicers and filter paths. This hides unused modes rather than guaranteeing a greyed-out UI style.
+Card counts cities occurring in fact,Measure-level,DISTINCTCOUNT(FactShipment[OriginCityKey]) respects fact filters. Counting DimCity with Single counts unused cities too; no reverse relationship is needed.
+Province row-level security,Single,Apply the province rule to DimCity; its active origin path filters shipments. Both can introduce unintended propagation. Test roles explicitly; inactive destination relationships do not supply destination RLS.
+FactFuelSpend shares City and Date,Single,Both dimensions filter each fact independently. Reverse fact-to-dimension flow can let fuel activity restrict shipments or create ambiguous paths; avoid direct fact-to-fact links.

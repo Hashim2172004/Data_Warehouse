@@ -1,0 +1,7 @@
+Scenario,Verdict,Case,Reason
+City repeats Province and Region across 15 rows,Flatten,None,"Small compressed dictionaries; no meaningful memory saving, and Region is actually city-grain here."
+Route needs the month its corridor opened,Snowflake,1 — genuine outrigger,"Use a separate opening-month dimension at month grain if calendar attributes are needed; avoid an ambiguous path through the shipment-date dimension. If only a label is needed, a Route column is simpler."
+50 million customers repeat a 400-character segment description,Snowflake,"2 — large dimension / wide text, conditional",Course-intended case 2. Require evidence of high cardinality or poor compression and a measured benefit: a few repeated descriptions would compress well and favor Flatten.
+Subcategory nightly; manufacturer monthly from another vendor,Snowflake,3 — independently owned sub-dimension,"Maintain manufacturer attributes at their own grain and load cadence, with stable keys and an explicit history policy."
+Shipment has multiple hazard classes,Bridge,4 — multi-valued attribute,Use a Shipment–Hazard bridge with unique pairs. Do not duplicate shipment amounts across hazards; allocate or use distinct-shipment filtering when aggregating.
+City → Province looks tidier in the diagram,Flatten,None,"Visual tidiness is not a business grain, ownership, or measured performance requirement."

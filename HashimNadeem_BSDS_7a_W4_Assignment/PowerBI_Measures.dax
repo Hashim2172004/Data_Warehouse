@@ -1,0 +1,21 @@
+Total Weight = SUM( FactShipment[WeightKG] )
+
+Total Cost = SUM( FactShipment[FreightCostPKR] )
+
+Shipment Count = SUM( FactShipment[ShipmentCount] )
+
+Cost per KG = DIVIDE( [Total Cost], [Total Weight] )
+
+Distinct Cities = DISTINCTCOUNT( FactShipment[OriginCityKey] )
+
+Weight to Destination City =
+CALCULATE( [Total Weight],
+    USERELATIONSHIP( FactShipment[DestCityKey], DimCity[CityKey] )
+)
+
+Origin Province Count =
+COUNTROWS(
+    SUMMARIZE( FactShipment, DimCity[Province] )
+)
+
+Mode Has Shipments = IF( [Shipment Count] > 0, 1, 0 )

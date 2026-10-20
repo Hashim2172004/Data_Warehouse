@@ -1,0 +1,7 @@
+Dimension,Dimension key,Fact key,Active,Reason,One side,Many side,Cardinality,Cross-filter
+DimDate,DateKey,DateKey,True,Calendar grouping and time filters.,DimDate[DateKey],FactShipment[DateKey],* : 1,Single
+DimCity,CityKey,OriginCityKey,True,Default origin geography.,DimCity[CityKey],FactShipment[OriginCityKey],* : 1,Single
+DimCity,CityKey,DestCityKey,False,"Destination geography, activated per measure.",DimCity[CityKey],FactShipment[DestCityKey],* : 1,Single
+DimRoute,RouteKey,RouteKey,True,Corridor and distance-band grouping.,DimRoute[RouteKey],FactShipment[RouteKey],* : 1,Single
+DimMode,ModeKey,ModeKey,True,Transport mode slicer.,DimMode[ModeKey],FactShipment[ModeKey],* : 1,Single
+DimStatus,StatusKey,StatusKey,True,Delivery-state filters.,DimStatus[StatusKey],FactShipment[StatusKey],* : 1,Single

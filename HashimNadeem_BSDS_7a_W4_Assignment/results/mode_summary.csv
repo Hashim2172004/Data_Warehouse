@@ -1,0 +1,4 @@
+Mode,Total Weight,Total Cost,Shipment Count,Cost per KG,Distinct Cities (origin)
+Marine,206500.0,1618000.0,12.0,7.835351089588378,2.0
+Rail,295250.0,2585000.0,10.0,8.755292125317528,1.0
+Road,76900.0,605000.0,12.0,7.8673602080624185,7.0

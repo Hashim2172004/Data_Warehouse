@@ -1,0 +1,16 @@
+CityKey,CityName,ProvinceKey,IsPortCity,FacilityType,Region,RawAliases
+1,Karachi,1,Yes,Sea Port + Rail Hub,South,Karachi Port | Port Qasim | Karachi Cantt | Pipri Marshalling Yard | Karachi
+2,Gwadar,2,Yes,Sea Port,South,Gwadar Port
+3,Lahore,3,No,Dry Port,North,Lahore Dry Port | Lahore
+4,Multan,3,No,Inland Depot,Central,Multan
+5,Islamabad,4,No,Dry Port,North,Islamabad Dry Port | Islamabad
+6,Quetta,2,No,Inland Depot,West,Quetta
+7,Faisalabad,3,No,Dry Port,Central,Faisalabad Dry Port | Faisalabad
+8,Rawalpindi,3,No,Rail Hub,North,Rawalpindi
+9,Sialkot,3,No,Dry Port,North,Sialkot Dry Port | Sialkot
+10,Peshawar,5,No,Inland Depot,North,Peshawar Cantt | Peshawar
+11,Hyderabad,1,No,Inland Depot,South,Hyderabad
+12,Sukkur,1,No,Inland Depot,Central,Sukkur
+13,Gujranwala,3,No,Inland Depot,North,Gujranwala
+14,Abbottabad,5,No,Inland Depot,North,Abbottabad
+-1,Unknown,-1,No,Unknown,Unknown,

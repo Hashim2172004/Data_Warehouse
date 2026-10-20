@@ -1,0 +1,14 @@
+Check,Actual,Expected,Result,Evidence
+Relationships,6,6,PASS,Relationship register
+Many-to-one,6,6,PASS,Relationship register
+Single filter,6,6,PASS,Relationship register
+Active,5,5,PASS,Relationship register
+Inactive,1,1,PASS,Relationship register
+Fact rows,34,34,PASS,CSV data / validated joins
+Weight KG,578650,578650,PASS,CSV data / validated joins
+Freight PKR,4808000,4808000,PASS,CSV data / validated joins
+Blank dimension members,0,0,PASS,CSV data / validated joins
+Origin provinces,4,4,PASS,CSV data / validated joins
+Sindh origin KG,484350,484350,PASS,CSV data / validated joins
+Punjab origin KG,44100,44100,PASS,CSV data / validated joins
+Balochistan origin KG,44100,44100,PASS,CSV data / validated joins
