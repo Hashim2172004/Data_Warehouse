@@ -1,0 +1,9 @@
+Check,Actual,Expected,Result
+Contract columns per source,7,7,PASS
+Rail kg,295250,295250,PASS
+Status values,3,3,PASS
+Latest date,2026-02-13,2026-02-13,PASS
+Fact rows,34,34,PASS
+Unknown city rows,0,0,PASS
+Weight kg,578650,578650,PASS
+Cost PKR,4808000,4808000,PASS

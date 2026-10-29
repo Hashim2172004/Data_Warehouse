@@ -1,0 +1,5 @@
+ShipmentID,ShipDate,OriginRaw,DestRaw,WeightKG,FreightCostPKR,StatusRaw,ModeKey
+RD-505,2026-02-05,Islamabad,Peshawar,6100,47000,Delivered,3
+RD-505,2026-02-05,Islamabad,Peshawar,6100,47000,Delivered,3
+RD-508,2026-02-09,Quetta,Karachi,6600,92000,In Transit,3
+RD-508,2026-02-09,Quetta,Karachi,6600,92000,In Transit,3

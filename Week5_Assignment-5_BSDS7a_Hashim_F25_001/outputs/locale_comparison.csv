@@ -1,0 +1,13 @@
+Raw,en-GB,en-US,Verdict,US month,Reason
+01/02/2026,2026-02-01,2026-01-02,Wrong month,January,Day interpreted as month
+02/02/2026,2026-02-02,2026-02-02,Right by luck,February,Day equals month (02)
+03/02/2026,2026-02-03,2026-03-02,Wrong month,March,Day interpreted as month
+04/02/2026,2026-02-04,2026-04-02,Wrong month,April,Day interpreted as month
+05/02/2026,2026-02-05,2026-05-02,Wrong month,May,Day interpreted as month
+06/02/2026,2026-02-06,2026-06-02,Wrong month,June,Day interpreted as month
+07/02/2026,2026-02-07,2026-07-02,Wrong month,July,Day interpreted as month
+09/02/2026,2026-02-09,2026-09-02,Wrong month,September,Day interpreted as month
+10/02/2026,2026-02-10,2026-10-02,Wrong month,October,Day interpreted as month
+11/02/2026,2026-02-11,2026-11-02,Wrong month,November,Day interpreted as month
+12/02/2026,2026-02-12,2026-12-02,Wrong month,December,Day interpreted as month
+13/02/2026,2026-02-13,Error,Error,Error,13 is not a month

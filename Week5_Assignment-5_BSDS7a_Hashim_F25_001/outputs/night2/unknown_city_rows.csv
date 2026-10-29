@@ -1,0 +1,2 @@
+ShipmentID,ShipDate,OriginRaw,DestRaw,WeightKG,FreightCostPKR,StatusRaw,ModeKey,OriginCityKey,DestCityKey
+RD-513,2026-02-13,Chaman Border,Quetta,6300,52000,Delivered,3,-1,6

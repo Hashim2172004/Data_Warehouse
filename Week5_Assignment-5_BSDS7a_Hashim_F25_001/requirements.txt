@@ -1,0 +1,6 @@
+pandas>=2.0
+openpyxl>=3.1
+matplotlib>=3.7
+ipython>=8
+notebook>=7
+ipykernel>=6

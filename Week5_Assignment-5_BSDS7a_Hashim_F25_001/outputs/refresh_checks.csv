@@ -1,0 +1,7 @@
+Check,Actual,Expected,Result
+Rows,35,35,PASS
+WeightKG,584950,584950,PASS
+FreightCostPKR,4860000,4860000,PASS
+Status values,3,3,PASS
+Unknown city rows,1,1,PASS
+Delayed rows,5,5,PASS
