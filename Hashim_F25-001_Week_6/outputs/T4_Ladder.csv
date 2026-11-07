@@ -1,0 +1,8 @@
+Stage,Rows,NumericWeightAsIssued,FreightCostPKR,WeightUnit
+marine_march.csv,261,4683000.0,35571000.0,kg; invalid text skipped
+rail_march.xlsx,315,9218.25,88702500.0,tonnes
+road_march.csv,708,4487200.0,32259500.0,kg; invalid text skipped
+Staging,1284,,,
+Rejected,24,,,
+Deduplicated,60,,,
+Loaded,1200,17542050.0,147037000.0,kg

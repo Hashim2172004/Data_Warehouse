@@ -1,0 +1,9 @@
+Column,Blanks,DistinctRaw,RuleFailures,NeedsTextTransform
+ShipmentID,4,1232,64,712
+ShipDate,0,98,6,—
+Origin,0,18,14,570
+Destination,0,19,0,189
+WeightKG,0,78,14,—
+FreightCostPKR,0,378,0,—
+StatusRaw,0,25,7,980
+CustomerID,0,46,0,—

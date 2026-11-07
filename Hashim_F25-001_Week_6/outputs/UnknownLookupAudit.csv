@@ -1,0 +1,22 @@
+ShipmentID,SourceFile,SourceRow,Origin,Destination,StatusRaw,OriginCityKey,DestCityKey,StatusKey
+MR-2162,marine_march.csv,51,Keti Bandar Jetty,Faisalabad Dry Port,IN TRANSIT,-1,7,2
+MR-2107,marine_march.csv,83,Karachi Port,Peshawar,RTO,1,10,-1
+MR-2011,marine_march.csv,121,Keti Bandar Jetty,Lahore Dry Port,DELIVERED ,-1,3,1
+MR-2205,marine_march.csv,144,Karachi Port,Sialkot Dry Port,RTO,1,9,-1
+MR-2136,marine_march.csv,174,Keti Bandar Jetty,Lahore Dry Port,DELIVERED,-1,3,1
+RL-46074,rail_march.xlsx,60,Kotri Junction,Rawalpindi,In Transit,-1,8,2
+RL-46022,rail_march.xlsx,93,Kotri Junction,Multan,Delivered,-1,4,1
+RL-46236,rail_march.xlsx,281,Kotri Junction,Rawalpindi,Delivered,-1,8,1
+RL-46088,rail_march.xlsx,291,Pipri Marshalling Yard,Rawalpindi,Hold,1,8,-1
+RD-5063,road_march.csv,55,Wagah Border,Karachi,delivered,-1,1,1
+RD-5200,road_march.csv,181,Wagah Border,Hyderabad,delivered,-1,11,1
+RD-5459,road_march.csv,184,Quetta,Karachi,held at customs,6,1,-1
+RD-5379,road_march.csv,193,Taftan Crossing,Peshawar,delivered,-1,10,1
+RD-5195,road_march.csv,243,Torkham Gate,Karachi,delivered,-1,1,1
+RD-5242,road_march.csv,308,Torkham Gate,Abbottabad,in transit,-1,14,2
+RD-5619,road_march.csv,316,Chaman Border,Faisalabad,in transit,-1,7,2
+RD-5480,road_march.csv,366,Chaman Border,Sialkot,delivered,-1,9,1
+RD-5256,road_march.csv,464,Lahore,Faisalabad,held at customs,3,7,-1
+RD-5626,road_march.csv,473,Lahore,Gujranwala,held at customs,3,13,-1
+RD-5278,road_march.csv,562,Taftan Crossing,Faisalabad,in transit,-1,7,2
+RD-5104,road_march.csv,687,Islamabad,Peshawar,held at customs,5,10,-1

@@ -1,0 +1,16 @@
+Claim,Week (topic mapping),Verdict,Numeric evidence,Explanation
+1,W2,True,"1,284 data rows; 1,200 consignments",84 surplus data rows: 24 rejects and 60 duplicate copies.
+2,W1,False,5 negative weights; 3 negative costs,The 3 negative costs are real credit notes and must load.
+3,W2,False,"4,683,000 kg; 9,218.25 t; 4,487,200 kg",Raw SUM skips text and mixes units; duplicates and rejects remain.
+4,W2,False,"1,286 physical = 1,284 data + 2 structural","Land the footer first, then classify it; keep StructuralAudit."
+5,W4,True,"1,200 rows; 1,200 canonical IDs",Exactly one row per consignment; the key is unique.
+6,W1,False,8.381974 vs 7.745634 PKR/kg,Use total cost / total weight; a mean of ratios weights small loads equally.
+7,W3,False,"4 crossings, 8 rows; 0 additions",They are facilities without an approved city mapping; use -1.
+8,W4,False,28 February dates; 0 March keys,Rebuild 90 gapless Q1 dates; old DimDate has no March members.
+9,W4,False,"1,200 vs 3,600 probes",The three-join snowflake traverses 3 times as many joins.
+10,W4,True,"1,200 facts to 15 city members",Each city FK has one dimension match; filter dimension to fact.
+11,W5,False,"1,212 before trim; 1,200 after",The 12 trailing-space copies survive early deduplication.
+12,W6,False,"1,200 rows; exact totals; 0 valid March date FKs",Keeping February DimDate preserves both sums but breaks every date join.
+13,W6,False,6 rejected dates; 14 city -1 rows,Dates define valid fact grain; cities can use a known Unknown member.
+14,W6,False,"3/1,200 = 0.0025; road = 660 rows",Mode has poor discrimination. Date has 31 values and useful ranges.
+15,W5,False,"1,198 survivors; 2 real shipments lost",RD-5216 / RD-5337 and RD-5332 / RD-5409 share that business key.

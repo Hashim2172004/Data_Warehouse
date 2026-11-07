@@ -1,0 +1,3 @@
+ShipmentID,ShipDate,Origin,Destination,WeightKG,FreightCostPKR,StatusRaw,CustomerID,SourceFile,SourceRow,SourceMode,RawRecord,Reason
+,,,,,,,,road_march.csv,710,Road,"{""trip_id"": """", ""trip_date"": """", ""from_city"": """", ""to_city"": """", ""weight_kg"": """", ""cost_pkr"": """", ""status"": """", ""customer_id"": """"}",Blank structural record
+TOTAL,,,,4487200,32259500,,,road_march.csv,711,Road,"{""trip_id"": ""TOTAL"", ""trip_date"": """", ""from_city"": """", ""to_city"": """", ""weight_kg"": ""4487200"", ""cost_pkr"": ""32259500"", ""status"": """", ""customer_id"": """"}",TOTAL footer; not a consignment

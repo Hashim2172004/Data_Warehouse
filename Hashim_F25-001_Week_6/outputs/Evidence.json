@@ -1,0 +1,51 @@
+{
+  "actual": [
+    1284,
+    24,
+    60,
+    1200,
+    17542050.0,
+    147037000.0,
+    14,
+    7,
+    40,
+    90
+  ],
+  "duplicate_counts": [
+    1212,
+    1212,
+    1200,
+    1198
+  ],
+  "unknown_city": {
+    "Keti Bandar Jetty": 3,
+    "Kotri Junction": 3,
+    "Wagah Border": 2,
+    "Taftan Crossing": 2,
+    "Torkham Gate": 2,
+    "Chaman Border": 2
+  },
+  "unknown_status": {
+    "held at customs": 4,
+    "RTO": 2,
+    "Hold": 1
+  },
+  "weighted_rate": 8.381973600576899,
+  "mean_row_rate": 7.745633743970129,
+  "negative_weight_rows": 5,
+  "negative_cost_rows": 3,
+  "collision_ids": [
+    "RD-5216",
+    "RD-5337",
+    "RD-5409",
+    "RD-5332"
+  ],
+  "mode_counts": {
+    "3": 660,
+    "2": 300,
+    "1": 240
+  },
+  "stale_dates": 28,
+  "raw_customer_ids": 46,
+  "natural_survivors": 1198
+}

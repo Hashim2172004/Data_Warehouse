@@ -1,0 +1,19 @@
+{
+  "BeforeIndex": [
+    [
+      3,
+      0,
+      216,
+      "SCAN FactShipment_March"
+    ]
+  ],
+  "AfterIndex": [
+    [
+      4,
+      0,
+      163,
+      "SEARCH FactShipment_March USING INDEX IX_FactShipment_DateKey (DateKey>? AND DateKey<?)"
+    ]
+  ],
+  "NewIndexEntriesForMarch": 1200
+}

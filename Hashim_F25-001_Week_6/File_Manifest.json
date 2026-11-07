@@ -1,0 +1,227 @@
+[
+  {
+    "File": "Hashim_F25-001_Week_6.ipynb",
+    "Bytes": 50291,
+    "SHA256": "5a4ab732881ebe964bb98693cf0ee1654f46f61ca8c4a6bb9a858b7fe5826626"
+  },
+  {
+    "File": "ORIGINAL_README.md",
+    "Bytes": 8874,
+    "SHA256": "5153322b4cce9a8b6adc03171a3b00739f8205fac3fbbe61fba7f35427100317"
+  },
+  {
+    "File": "One_Page_Reflection.md",
+    "Bytes": 2765,
+    "SHA256": "9e642f1826137c47c68adec34c5bfacc1e05d42b31a0da8113dad9e454b27052"
+  },
+  {
+    "File": "One_Page_Reflection.pdf",
+    "Bytes": 45385,
+    "SHA256": "b14a6ab649a1a6d2074e5c248d0bd52143f6679cfaa89c468a8b1785ea074b8c"
+  },
+  {
+    "File": "README.md",
+    "Bytes": 1336,
+    "SHA256": "a59f96b50f2e3a8b96e5d2619bed407ac183e29935f5c719241908b21fab296b"
+  },
+  {
+    "File": "TASKS.md",
+    "Bytes": 18948,
+    "SHA256": "b47926d192394f5298c38f4d9770cf8e4d80a136ca434cbe114d8a58d94c909d"
+  },
+  {
+    "File": "W6_Quality_SU92-BDSFM-F25-001.xlsx",
+    "Bytes": 32641,
+    "SHA256": "011b5cdeeb2c02d6050cbc82ac1c308a64ff2ee79ec6091a3064cc7ed34cdaa9"
+  },
+  {
+    "File": "W6_SU92-BDSFM-F25-001.py",
+    "Bytes": 17285,
+    "SHA256": "fa0c0cfefd6d947be914b5a069fe08e4339c5eb1489b73416484a5ed1793b53c"
+  },
+  {
+    "File": "data/PakFreight_W6_QualityLab_STUDENT.xlsx",
+    "Bytes": 29353,
+    "SHA256": "ecbdd5a7bcf4c9fac0c1317eb40f4276ba668401e69bdc15bbe7f27595c9822b"
+  },
+  {
+    "File": "data/alias_lookup.csv",
+    "Bytes": 583,
+    "SHA256": "e627621d9079b0ba20ca36b216cebf52972eabf4ad58dac4236e4973d288918b"
+  },
+  {
+    "File": "data/customers_master.csv",
+    "Bytes": 2638,
+    "SHA256": "09126b8374349f2398bca8f52a1fb9f544a82dd580841ab1bc8926772769371f"
+  },
+  {
+    "File": "data/dims/DimCity.csv",
+    "Bytes": 1009,
+    "SHA256": "b44e5705f2765f0a510f667df8c45a6c7c2ef5462400340a26310781be964964"
+  },
+  {
+    "File": "data/dims/DimDate.csv",
+    "Bytes": 1730,
+    "SHA256": "1808d4c39e6d191f4f83143db1ed3c45a54a871b3e8c0f6caee3824d2023f656"
+  },
+  {
+    "File": "data/dims/DimMode.csv",
+    "Bytes": 321,
+    "SHA256": "01833158c3cfc1a81ac68d20dfb49e5979e53e1d6a043930b78c653b90a1b5a4"
+  },
+  {
+    "File": "data/dims/DimRoute.csv",
+    "Bytes": 1249,
+    "SHA256": "fb8b94335c19b5042931301898e7800e9800f9a9dcfdd8918e147a3684f8bf6b"
+  },
+  {
+    "File": "data/dims/DimStatus.csv",
+    "Bytes": 142,
+    "SHA256": "882e0b88702212f0b3c293256dac175946d984c95dd3fc0d12c69d1a400bbca7"
+  },
+  {
+    "File": "data/march/marine_march.csv",
+    "Bytes": 19756,
+    "SHA256": "82377cefd16c5e9e2f6f318db13839e4e56a67efc48d5cd064356c2235267d2b"
+  },
+  {
+    "File": "data/march/rail_march.xlsx",
+    "Bytes": 18482,
+    "SHA256": "242a249f05eca437406e56ccaa4cfbd219296ca8391b890256e31e3995158210"
+  },
+  {
+    "File": "data/march/road_march.csv",
+    "Bytes": 46350,
+    "SHA256": "2649035b0353b08bf3e7508065cf332bb4f63fc5ab64a368df44ab83159b7a37"
+  },
+  {
+    "File": "outputs/CustomerAliases.csv",
+    "Bytes": 3613,
+    "SHA256": "513860de5cf5a36d2f6098e2e6f1734c7ec0798f7c88dd9a9e1a7909289e67f3"
+  },
+  {
+    "File": "outputs/DimCity.csv",
+    "Bytes": 993,
+    "SHA256": "0c25684254e16486feeaee93e9072b49505c7c1e228afa3cf450780ae61aa087"
+  },
+  {
+    "File": "outputs/DimCustomer.csv",
+    "Bytes": 3367,
+    "SHA256": "8cde54b2738988e9c370dbf081b13ea12e61994b0d595a44862afabd81c57e3b"
+  },
+  {
+    "File": "outputs/DimDate.csv",
+    "Bytes": 5567,
+    "SHA256": "73bf2ca712cc0f7d12f512fed5c46d5af28c9d2bd9e32e27a8f8f27c04f93bff"
+  },
+  {
+    "File": "outputs/DimMode.csv",
+    "Bytes": 316,
+    "SHA256": "45015d82201c98833ce029fa4906eca13df3310533f7ad917c4609461e00a26f"
+  },
+  {
+    "File": "outputs/DimRoute.csv",
+    "Bytes": 1227,
+    "SHA256": "f58956162b3c1a213f03b86ca415d5a5a9d870501a1c8544e56da9b099e2e802"
+  },
+  {
+    "File": "outputs/DimStatus.csv",
+    "Bytes": 137,
+    "SHA256": "eae395f428953592e3c0f5452b117ac260d409771e09f3bd965134d3e9d2dd9a"
+  },
+  {
+    "File": "outputs/DuplicateLog.csv",
+    "Bytes": 25797,
+    "SHA256": "89f74e2afea97a4ad2ebe27f20e5293a9421608ff377d7054740dfa881ffbc6c"
+  },
+  {
+    "File": "outputs/Evidence.json",
+    "Bytes": 800,
+    "SHA256": "a6c1a2e73c50c5abc12ab45367260dcb870a5b4dc14b35be68eb7d869d685a8d"
+  },
+  {
+    "File": "outputs/FactShipment_March.csv",
+    "Bytes": 58692,
+    "SHA256": "3998ba4a01e3d0c7ed1b1060f2ef3f4eb86938ee5a008fb9c9e19d1fc2049802"
+  },
+  {
+    "File": "outputs/IndexPlan.json",
+    "Bytes": 294,
+    "SHA256": "eac23271b2d63a4ae820661fd9124fbf1c2c8135a6a8b24e759d47caabb92452"
+  },
+  {
+    "File": "outputs/NaturalKeyCollisions.csv",
+    "Bytes": 238,
+    "SHA256": "5850aec2d41c3bcf740612c52c56ad36ce68a2ae6c7bc6a3223a075cb2b1386e"
+  },
+  {
+    "File": "outputs/PakFreight_March.sqlite",
+    "Bytes": 98304,
+    "SHA256": "30ab82b125b04e10b8b2e8836b3bab1273084bfadd1b483d593507b4a160f7a0"
+  },
+  {
+    "File": "outputs/RawLanding.csv",
+    "Bytes": 424394,
+    "SHA256": "df3246be0fa9e25d208d9d7a2fbe5595aa5da6e025b0c5a5bd07fb2e541a3b7e"
+  },
+  {
+    "File": "outputs/RejectLog.csv",
+    "Bytes": 7998,
+    "SHA256": "c58703e2ca42627435a26df08af4c87fb7b4eeabe570c9db22baf2591993c573"
+  },
+  {
+    "File": "outputs/StagingRaw.csv",
+    "Bytes": 423960,
+    "SHA256": "9543c4cdbc1d38028c40faf4c1fd3985da74e6f2f6f89e36c80d5a3abea61a74"
+  },
+  {
+    "File": "outputs/StructuralAudit.csv",
+    "Bytes": 623,
+    "SHA256": "a125c7c97e545d4072992eae0eab774d9e16bd5bb3022b42efed1cae717a3767"
+  },
+  {
+    "File": "outputs/T1_Answers.csv",
+    "Bytes": 1732,
+    "SHA256": "3be4daed01c13c38cfe2c175825f2db4618a85002d267c24a012013790aca479"
+  },
+  {
+    "File": "outputs/T2_Profile.csv",
+    "Bytes": 236,
+    "SHA256": "0fee3cda81aafa7763b60c2efd350383f6cd818dd92a69b815f685032d4f110c"
+  },
+  {
+    "File": "outputs/T4_Ladder.csv",
+    "Bytes": 325,
+    "SHA256": "8160fd0eb23c75975a28857b4a74f2ae1015b5218d9c8858008281a0eb812181"
+  },
+  {
+    "File": "outputs/T5_DuplicateDefinitions.csv",
+    "Bytes": 135,
+    "SHA256": "e194e2b0021ea3230038ebf9e2e422c4dc392db04d004433356d92383bdbf832"
+  },
+  {
+    "File": "outputs/T6_Selectivity.csv",
+    "Bytes": 398,
+    "SHA256": "a5bd076eab3b45b361239801aeb91f195dac57db29b6249398d159914424a752"
+  },
+  {
+    "File": "outputs/T7_Checks.csv",
+    "Bytes": 333,
+    "SHA256": "f5c123ca844eb2cd51d0f474958ffc2f79d7fdbe7aafd89342c4378c55a522a2"
+  },
+  {
+    "File": "outputs/UnknownLookupAudit.csv",
+    "Bytes": 1577,
+    "SHA256": "62eeaf100e300de7d59cd31094393a4302ac8cee0b4d80d981ad92278f577c45"
+  },
+  {
+    "File": "outputs/WeightByOriginProvince.csv",
+    "Bytes": 114,
+    "SHA256": "b8c08cd42e837ef379f7d72fa47058ae06a11eb8164dd63bf261d39f30310cfb"
+  },
+  {
+    "File": "requirements.txt",
+    "Bytes": 59,
+    "SHA256": "e6503d01b4839cdbfccb6f9b45ad6e833e1f3ed56e39803815dc236927e0a84d"
+  }
+]

@@ -1,0 +1,11 @@
+Check,Actual,Expected,Pass
+Extracted data rows,1284.0,1284,True
+Rejected,24.0,24,True
+Deduplicated,60.0,60,True
+Fact rows,1200.0,1200,True
+WeightKG,17542050.0,17542050,True
+FreightCostPKR,147037000.0,147037000,True
+Unknown city rows,14.0,14,True
+Unknown status rows,7.0,7,True
+Known customers,40.0,40,True
+Calendar days,90.0,90,True

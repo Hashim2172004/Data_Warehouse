@@ -1,0 +1,5 @@
+Definition,RowsSurviving
+Whole raw contract row,1212
+Raw ShipmentID,1212
+Canonical ShipmentID,1200
+Day + lane + weight + customer,1198

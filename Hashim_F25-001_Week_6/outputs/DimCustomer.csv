@@ -1,0 +1,42 @@
+CustomerKey,CustomerName,City,Sector,SignedUp,CustomerIDAliases,NameAliases
+-1,Unknown,Unknown,Unknown,,,
+1,Indus Textiles Ltd,Faisalabad,Textiles,2025-06-25,CU-101 | CU-901,Indus Textiles Ltd | INDUS TEXTILES LIMITED
+2,Shahbaz Cement Co,Hyderabad,Construction,2024-04-06,CU-102,Shahbaz Cement Co
+3,Karachi Steel Mills,Karachi,Metals,2025-02-09,CU-103 | CU-902,Karachi Steel Mills | Karachi Steel Mills.
+4,Pak Agro Exports,Multan,Agriculture,2025-05-05,CU-104 | CU-903,Pak Agro Exports | Pak Agro Exports (Pvt) Ltd
+5,Ravi Pharma Ltd,Lahore,Pharma,2024-02-28,CU-105,Ravi Pharma Ltd
+6,Nishtar Sugar Mills,Multan,Food,2025-01-02,CU-106,Nishtar Sugar Mills
+7,Bolan Marble Works,Quetta,Minerals,2025-03-09,CU-107,Bolan Marble Works
+8,Gulberg Garments,Lahore,Textiles,2024-09-22,CU-108,Gulberg Garments
+9,Sialkot Sports Co,Sialkot,Manufacturing,2025-02-06,CU-109 | CU-904,Sialkot Sports Co | Sialkot Sports Company
+10,Attock Chemicals,Rawalpindi,Chemicals,2024-09-06,CU-110,Attock Chemicals
+11,Makran Seafoods,Gwadar,Food,2024-07-14,CU-111,Makran Seafoods
+12,Lyallpur Spinning,Faisalabad,Textiles,2024-03-14,CU-112,Lyallpur Spinning
+13,Hunza Mineral Water,Abbottabad,Food,2025-06-07,CU-113,Hunza Mineral Water
+14,Thar Coal Logistics,Karachi,Minerals,2025-06-07,CU-114,Thar Coal Logistics
+15,Multan Mango Exports,Multan,Agriculture,2024-05-03,CU-115,Multan Mango Exports
+16,Swat Timber Traders,Peshawar,Timber,2024-08-29,CU-116,Swat Timber Traders
+17,Quetta Fruit Company,Quetta,Agriculture,2024-02-12,CU-117,Quetta Fruit Company
+18,Hyderabad Glassworks,Hyderabad,Manufacturing,2025-05-25,CU-118,Hyderabad Glassworks
+19,Sukkur Rice Mills,Sukkur,Agriculture,2024-04-12,CU-119 | CU-905,Sukkur Rice Mills | Sukkur  Rice Mills
+20,Gujranwala Fans Ltd,Gujranwala,Manufacturing,2024-08-11,CU-120,Gujranwala Fans Ltd
+21,Chenab Paper Mills,Faisalabad,Paper,2025-05-05,CU-121,Chenab Paper Mills
+22,Peshawar Leather Co,Peshawar,Leather,2025-06-07,CU-122,Peshawar Leather Co
+23,Clifton Electronics,Karachi,Electronics,2025-06-04,CU-123,Clifton Electronics
+24,Mehran Auto Parts,Karachi,Automotive,2024-12-05,CU-124,Mehran Auto Parts
+25,Korangi Plastics,Karachi,Chemicals,2025-03-31,CU-125,Korangi Plastics
+26,Faisalabad Looms,Faisalabad,Textiles,2024-08-20,CU-126,Faisalabad Looms
+27,Abbottabad Herbals,Abbottabad,Pharma,2024-12-18,CU-127,Abbottabad Herbals
+28,Rawal Packaging,Islamabad,Paper,2024-09-04,CU-128,Rawal Packaging
+29,Sindh Fertilizers,Sukkur,Chemicals,2025-09-09,CU-129,Sindh Fertilizers
+30,Zarghoon Minerals,Quetta,Minerals,2025-06-03,CU-130,Zarghoon Minerals
+31,Lahore Tyre Company,Lahore,Automotive,2024-10-27,CU-131 | CU-906,Lahore Tyre Company | lahore tyre co
+32,Port Qasim Bulk Handlers,Karachi,Logistics,2025-06-27,CU-132,Port Qasim Bulk Handlers
+33,Malir Dairy Products,Karachi,Food,2024-06-30,CU-133,Malir Dairy Products
+34,Okara Poultry Feeds,Lahore,Food,2024-05-08,CU-134,Okara Poultry Feeds
+35,Jhelum Bricks Ltd,Rawalpindi,Construction,2024-02-28,CU-135,Jhelum Bricks Ltd
+36,Kohat Tobacco Co,Peshawar,Agriculture,2025-08-03,CU-136,Kohat Tobacco Co
+37,Sahiwal Textiles,Multan,Textiles,2024-12-08,CU-137,Sahiwal Textiles
+38,Larkana Cotton Traders,Sukkur,Agriculture,2024-04-07,CU-138,Larkana Cotton Traders
+39,Nowshera Pipes Ltd,Peshawar,Metals,2025-07-11,CU-139,Nowshera Pipes Ltd
+40,Keamari Cold Storage,Karachi,Logistics,2025-08-27,CU-140,Keamari Cold Storage
