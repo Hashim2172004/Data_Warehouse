@@ -1,0 +1,4 @@
+Group,RawValues,LoadedRows,NextMonthProposal
+City,"['Bin Qasim Terminal', 'Chaman Border', 'Hub Chowki', 'Nowshera Yard', 'Sahiwal', 'Sost Dry Port']",18,Ask operations to approve canonical aliases or add verified cities; never guess.
+Status,"['7', '9', 'HELD AT CUSTOMS', 'Short Landed', 'rto']",9,"Ask carrier/business owners to approve status semantics and terminal/exception flags, including codes 7 and 9."
+Customer,"['(blank)', 'CU-951', 'CU-952', 'CU-953', 'CU-954']",11,Ask CRM owner to register or match references and repair blank customer IDs.

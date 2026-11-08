@@ -1,0 +1,9 @@
+Column,Distinct,Rows,DashboardFilter,Selectivity
+DateKey,73,2934,every page,0.024880708929788685
+OriginCityKey,12,2934,sometimes,0.00408997955010225
+DestCityKey,14,2934,sometimes,0.004771642808452625
+RouteKey,25,2934,sometimes,0.008520790729379687
+ModeKey,4,2934,every page,0.0013633265167007499
+StatusKey,4,2934,sometimes,0.0013633265167007499
+CustomerKey,47,2934,sometimes,0.016019086571233812
+ShipmentID,2934,2934,never,1.0

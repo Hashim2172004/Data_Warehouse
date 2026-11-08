@@ -1,0 +1,10 @@
+Stage,Rows,RawWeightSum_or_LoadedKG,CostPKR
+marine_april.csv,256,4445000.0,36783500.0
+rail_april.xlsx,318,9305.5,86026500.0
+road_april.csv,739,4660200.0,34970000.0
+courier_april.json,492,390250000.0,9776000.0
+Staging,1805,,
+Rejected,35,,
+Same-ID duplicates,55,,
+Cross-carrier duplicates,15,,
+April loaded,1700,17915700.0,158037000.0

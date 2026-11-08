@@ -1,0 +1,9 @@
+Column,Blanks,DistinctRaw,RuleFailures,TextTransformOnly
+ShipmentID,5,1771,5,1044
+ShipDate,0,547,7,0
+OriginCity,0,18,10,528
+DestCity,0,21,9,188
+WeightKG,2,102,19,0
+FreightCostPKR,3,373,4,0
+Status,0,30,9,991
+CustomerID,2,50,11,109

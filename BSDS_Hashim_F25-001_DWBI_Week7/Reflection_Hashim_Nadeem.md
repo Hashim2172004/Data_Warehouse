@@ -1,0 +1,13 @@
+## One-page reflection
+
+I would defend Type 2 most strongly for the three HQ moves, since the board groups shipments by customer province. CU-116 moved into Punjab while CU-105 and CU-120 moved out. Overwriting customer locations shifts 883,350 kg of March history even though both province tables retain the correct 17,542,050 kg total. The sum of positive province differences is only 552,900 kg because moves offset each other. Islamabad ICT's increase would be especially noticeable, while Punjab's smaller percentage decline could escape review.
+
+I would keep signup dates as Type 0, track sector history with Type 2 when past sector analysis matters, and consider Type 3 for a limited previous/current sector comparison. The CU-140 rename is a Type 1 display-name change in my policy recommendation. The required all-Type-2 lab is implemented separately to satisfy its explicit 47-row specification.
+
+I retained 18 unresolved-city rows, nine unresolved-status rows and eleven unresolved-customer rows. Their exact six city spellings, five statuses and five customer references appear above and in UnresolvedValues.csv. These rows represent real measured business, so Unknown preserves their freight while business owners clarify classification. Deleting them conceals data quality instead of resolving it. The total 45 Unknown-customer facts includes February's 34 rows, which never contained customer information.
+
+For the board, I would explain the change in blend before describing any price trend: Courier's arrival raises April's blended cost/kg to 8.82, while excluding Courier gives 8.46. Neither number alone establishes a like-for-like rate increase.
+
+I would investigate DateKey indexing in a relational warehouse, costing 1,700 additional index entries for this April load. I would examine actual query plans and report timings before materializing a production aggregate at this small scale. Preserving published facts matters more than making a wrong answer return faster.
+
+**Reproducibility:** all outputs are derived from the supplied files. Input hashes and exact locators support rejects; duplicate and structural-removal logs account for other removals. A repeated run replaces the deterministic April snapshot rather than appending a second copy. Holiday values for newly generated April dates default to No because no holiday calendar was supplied; this does not affect any requested metric. New lanes retain their keys and names; corridor/distance descriptors are marked Not supplied rather than inferred.

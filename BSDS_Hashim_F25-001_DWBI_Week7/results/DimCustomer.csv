@@ -1,0 +1,48 @@
+CustomerKey,CustomerID,CustomerName,HQCity,HQProvince,Sector,SignedUp,RawAliases,ValidFrom,ValidTo,RowIsCurrent
+1,CU-101,Indus Textiles Ltd,Faisalabad,Punjab,Textiles,2025-09-12,Indus Textiles Ltd | INDUS TEXTILES LIMITED,1900-01-01,9999-12-31,Yes
+2,CU-102,Shahbaz Cement Co,Hyderabad,Sindh,Construction,2024-04-06,Shahbaz Cement Co,1900-01-01,9999-12-31,Yes
+3,CU-103,Karachi Steel Mills,Karachi,Sindh,Metals,2025-02-09,Karachi Steel Mills | Karachi Steel Mills.,1900-01-01,9999-12-31,Yes
+4,CU-104,Pak Agro Exports,Multan,Punjab,Agriculture,2025-05-05,Pak Agro Exports | Pak Agro Exports (Pvt) Ltd,1900-01-01,9999-12-31,Yes
+5,CU-105,Ravi Pharma Ltd,Lahore,Punjab,Pharma,2024-02-28,Ravi Pharma Ltd,1900-01-01,2026-04-06,No
+6,CU-106,Nishtar Sugar Mills,Multan,Punjab,Food,2025-01-02,Nishtar Sugar Mills,1900-01-01,9999-12-31,Yes
+7,CU-107,Bolan Marble Works,Quetta,Balochistan,Minerals,2025-03-09,Bolan Marble Works,1900-01-01,9999-12-31,Yes
+8,CU-108,Gulberg Garments,Lahore,Punjab,Textiles,2024-09-22,Gulberg Garments,1900-01-01,9999-12-31,Yes
+9,CU-109,Sialkot Sports Co,Sialkot,Punjab,Manufacturing,2025-02-06,Sialkot Sports Co | Sialkot Sports Company,1900-01-01,9999-12-31,Yes
+10,CU-110,Attock Chemicals,Rawalpindi,Punjab,Chemicals,2024-09-06,Attock Chemicals,1900-01-01,9999-12-31,Yes
+11,CU-111,Makran Seafoods,Gwadar,Balochistan,Food,2024-07-14,Makran Seafoods,1900-01-01,9999-12-31,Yes
+12,CU-112,Lyallpur Spinning,Faisalabad,Punjab,Textiles,2024-03-14,Lyallpur Spinning,1900-01-01,9999-12-31,Yes
+13,CU-113,Hunza Mineral Water,Abbottabad,Khyber Pakhtunkhwa,Food,2025-06-07,Hunza Mineral Water,1900-01-01,9999-12-31,Yes
+14,CU-114,Thar Coal Logistics,Karachi,Sindh,Minerals,2025-06-07,Thar Coal Logistics,1900-01-01,9999-12-31,Yes
+15,CU-115,Multan Mango Exports,Multan,Punjab,Agriculture,2024-05-03,Multan Mango Exports,1900-01-01,9999-12-31,Yes
+16,CU-116,Swat Timber Traders,Peshawar,Khyber Pakhtunkhwa,Timber,2024-08-29,Swat Timber Traders,1900-01-01,2026-04-18,No
+17,CU-117,Quetta Fruit Company,Quetta,Balochistan,Agriculture,2024-02-12,Quetta Fruit Company,1900-01-01,9999-12-31,Yes
+18,CU-118,Hyderabad Glassworks,Hyderabad,Sindh,Manufacturing,2025-05-25,Hyderabad Glassworks,1900-01-01,9999-12-31,Yes
+19,CU-119,Sukkur Rice Mills,Sukkur,Sindh,Agriculture,2024-04-12,Sukkur Rice Mills | Sukkur  Rice Mills,1900-01-01,9999-12-31,Yes
+20,CU-120,Gujranwala Fans Ltd,Gujranwala,Punjab,Manufacturing,2024-08-11,Gujranwala Fans Ltd,1900-01-01,2026-04-11,No
+21,CU-121,Chenab Paper Mills,Faisalabad,Punjab,Paper,2025-05-05,Chenab Paper Mills,1900-01-01,9999-12-31,Yes
+22,CU-122,Peshawar Leather Co,Peshawar,Khyber Pakhtunkhwa,Leather,2025-06-07,Peshawar Leather Co,1900-01-01,9999-12-31,Yes
+23,CU-123,Clifton Electronics,Karachi,Sindh,Electronics,2025-06-04,Clifton Electronics,1900-01-01,2026-04-04,No
+24,CU-124,Mehran Auto Parts,Karachi,Sindh,Automotive,2024-12-05,Mehran Auto Parts,1900-01-01,9999-12-31,Yes
+25,CU-125,Korangi Plastics,Karachi,Sindh,Chemicals,2025-03-31,Korangi Plastics,1900-01-01,9999-12-31,Yes
+26,CU-126,Faisalabad Looms,Faisalabad,Punjab,Textiles,2024-08-20,Faisalabad Looms,1900-01-01,9999-12-31,Yes
+27,CU-127,Abbottabad Herbals,Abbottabad,Khyber Pakhtunkhwa,Pharma,2024-12-18,Abbottabad Herbals,1900-01-01,9999-12-31,Yes
+28,CU-128,Rawal Packaging,Islamabad,Islamabad ICT,Paper,2024-09-04,Rawal Packaging,1900-01-01,9999-12-31,Yes
+29,CU-129,Sindh Fertilizers,Sukkur,Sindh,Chemicals,2025-09-09,Sindh Fertilizers,1900-01-01,9999-12-31,Yes
+30,CU-130,Zarghoon Minerals,Quetta,Balochistan,Minerals,2025-06-03,Zarghoon Minerals,1900-01-01,9999-12-31,Yes
+31,CU-131,Lahore Tyre Company,Lahore,Punjab,Automotive,2024-10-27,Lahore Tyre Company | lahore tyre co,1900-01-01,9999-12-31,Yes
+32,CU-132,Port Qasim Bulk Handlers,Karachi,Sindh,Logistics,2025-06-27,Port Qasim Bulk Handlers,1900-01-01,2026-04-20,No
+33,CU-133,Malir Dairy Products,Karachi,Sindh,Food,2024-06-30,Malir Dairy Products,1900-01-01,9999-12-31,Yes
+34,CU-134,Okara Poultry Feeds,Lahore,Punjab,Food,2024-05-08,Okara Poultry Feeds,1900-01-01,9999-12-31,Yes
+35,CU-135,Jhelum Bricks Ltd,Rawalpindi,Punjab,Construction,2024-02-28,Jhelum Bricks Ltd,1900-01-01,9999-12-31,Yes
+36,CU-136,Kohat Tobacco Co,Peshawar,Khyber Pakhtunkhwa,Agriculture,2025-08-03,Kohat Tobacco Co,1900-01-01,9999-12-31,Yes
+37,CU-137,Sahiwal Textiles,Multan,Punjab,Textiles,2024-12-08,Sahiwal Textiles,1900-01-01,9999-12-31,Yes
+38,CU-138,Larkana Cotton Traders,Sukkur,Sindh,Agriculture,2024-04-07,Larkana Cotton Traders,1900-01-01,9999-12-31,Yes
+39,CU-139,Nowshera Pipes Ltd,Peshawar,Khyber Pakhtunkhwa,Metals,2025-07-11,Nowshera Pipes Ltd,1900-01-01,9999-12-31,Yes
+40,CU-140,Keamari Cold Storage,Karachi,Sindh,Logistics,2025-08-27,Keamari Cold Storage,1900-01-01,2026-04-14,No
+-1,,Unknown,Unknown,Unknown,Unknown,,,1900-01-01,9999-12-31,Yes
+41,CU-105,Ravi Pharma Ltd,Karachi,Sindh,Pharma,2024-02-28,Ravi Pharma Ltd,2026-04-07,9999-12-31,Yes
+42,CU-120,Gujranwala Fans Ltd,Islamabad,Islamabad ICT,Manufacturing,2024-08-11,Gujranwala Fans Ltd,2026-04-12,9999-12-31,Yes
+43,CU-116,Swat Timber Traders,Lahore,Punjab,Timber,2024-08-29,Swat Timber Traders,2026-04-19,9999-12-31,Yes
+44,CU-123,Clifton Electronics,Karachi,Sindh,Retail,2025-06-04,Clifton Electronics,2026-04-05,9999-12-31,Yes
+45,CU-132,Port Qasim Bulk Handlers,Karachi,Sindh,Marine Services,2025-06-27,Port Qasim Bulk Handlers,2026-04-21,9999-12-31,Yes
+46,CU-140,Keamari Cold Chain (Pvt) Ltd,Karachi,Sindh,Logistics,2025-08-27,Keamari Cold Storage,2026-04-15,9999-12-31,Yes

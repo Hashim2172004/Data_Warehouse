@@ -1,0 +1,13 @@
+Check,Actual,Expected,Status
+Staging rows,1805,1805,PASS
+Rejected rows,35,35,PASS
+Duplicates removed,70,70,PASS
+April rows,1700,1700,PASS
+April kg,17915700,17915700,PASS
+April PKR,158037000,158037000,PASS
+Unknown city rows,18,18,PASS
+Unknown status rows,9,9,PASS
+Unknown customer rows,11,11,PASS
+Customer versions,47,47,PASS
+Calendar rows,120,120,PASS
+March HQ Punjab kg,7566850,7566850,PASS
